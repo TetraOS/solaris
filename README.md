@@ -56,7 +56,7 @@ We welcome contributions to the project. To contribute:
 
 
 
-Please refer to the [contributing guidelines](CONTRIBUTING.md) for more information.
+Please refer to the [contributing guidelines](docs/CONTRIBUTING.md) for more information.
 
 ## Questions ❓
 
