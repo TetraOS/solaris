@@ -2,6 +2,7 @@
   <h1>Tetra OS Window Manager</h1>
   <h3>Hello, and Welcome! 👋</h3>
   TheTetraOS Window Manager is a lightweight and customizable window management solution designed for the Cosmos desktop environment (TetraOS' desktop main desktop environment). It provides essential functionalities for managing windows, workspaces, and user interactions within the desktop environment.
+  <h3>⭐Please star too⭐</h3>
   <h3>------</h3>
 </div>
 
