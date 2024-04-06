@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Meet Solaris</h1>
-  <img src="branding/solarisbanner.png">
+  <img src="branding/solarisbanner.png" width="100%">
   <h3>Hello, and Welcome! 👋</h3>
   Solaris is TetraOS' window manager. Solaris is a lightweight and customizable window management solution designed for the Cosmos desktop environment (TetraOS' desktop main desktop environment). It provides essential functionalities for managing windows, workspaces, and user interactions within the desktop environment.
 </div>
