@@ -12,25 +12,25 @@
 - Support for keyboard shortcuts and window focus management
 - Lightweight and efficient design for optimal performance
 
-## Getting Started
+## Getting Started 📈
 
 To get started with using or contributing to the TetraOS Window Manager, follow these steps:
 
-### Prerequisites
+### Prerequisites 🔌
 
 - C++ compiler with support for C++17
 - GTK development libraries (for graphical user interface components)
 - CMake build system (optional but recommended)
 
-### Installation
+### Installation 💾
 
 1. Clone the repository to your local machine:
 
-   ```git clone https://github.com/your-username/tetraos-window-manager.git```
+   ```git clone https://github.com/your-username/Solaris.git```
 
 2. Navigate to the project directory:
 
-   ```cd window-manager```
+   ```cd Solaris```
 
 3. Build the window manager using your preferred build system. If you're using CMake: (⚠️ This step is not applicable at the moment)
 
@@ -43,7 +43,7 @@ To get started with using or contributing to the TetraOS Window Manager, follow 
 
 ## License 📝
 
-TetraOS Compositor is released under the GNU GPL v3.0. For more information, see the `LICENSE` file in the repository.
+Solaris is released under the GNU GPL v3.0. For more information, see the `LICENSE` file in the repository.
 
 ## Contributing 🤝
 
