@@ -46,7 +46,7 @@ To get started with using or contributing to the TetraOS Window Manager, follow 
     
 ## License 📝
 
-Solaris is released under the GNU GPL v3.0. For more information, see the `LICENSE` file in the repository.
+Solaris is released under the MIT license. For more information, see the `LICENSE` file in the repository.
 
 ## Contributing 🤝
 
