@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Meet Solaris</h1>
-  <img src="branding/solarisbanner.svg" width="100%">
+  <img src="doc/solarisbanner.svg" width="100%">
   <h3>Hello, and Welcome! 👋</h3>
-  Solaris is TetraOS' window manager. Solaris is a lightweight and customizable window management solution designed for the Cosmos desktop environment (TetraOS' desktop main desktop environment). It provides essential functionalities for managing windows, workspaces, and user interactions within the desktop environment.
+  Solaris is TetraOS' window manager. It is a lightweight and customizable window management solution designed for the Cosmos desktop environment, which is the main desktop environment of TetraOS. Solaris provides essential functionalities for managing windows, workspaces, and user interactions within the desktop environment.
 </div>
 
 ### Features 🚀
@@ -26,21 +26,24 @@ To get started with using or contributing to the TetraOS Window Manager, follow 
 
 1. Clone the repository to your local machine:
 
-   ```git clone https://github.com/your-username/Solaris.git```
+   ```
+   git clone https://github.com/your-username/Solaris.git
+   ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
-   ```cd Solaris```
+   ```
+   cd Solaris
+   ```
 
-3. Build the window manager using your preferred build system. If you're using CMake: (⚠️ This step is not applicable at the moment)
+5. Build the window manager using your preferred build system. If you're using CMake: (⚠️ This step is not applicable at the moment)
 
-   
-  ```
-  mkdir build && cd build 
-  cmake ..
-  make
-  ```
-
+    ```
+    mkdir build && cd build
+    cmake ..
+    make
+    ```
+    
 ## License 📝
 
 Solaris is released under the GNU GPL v3.0. For more information, see the `LICENSE` file in the repository.
@@ -54,13 +57,12 @@ We welcome contributions to the project. To contribute:
 - Commit your changes with descriptive commit messages.
 - Push your changes to your fork and submit a pull request.
 
-
-
-Please refer to the [contributing guidelines](docs/CONTRIBUTING.md) for more information.
+Please refer to the [contributing guidelines](doc/CONTRIBUTING.md) for more information.
 
 ## Questions ❓
 
 If you have any questions or need help, please don't hesitate to contact us at tetraos.team@gmail.com
 
 
-
+    
+       
