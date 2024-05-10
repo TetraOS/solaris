@@ -57,7 +57,7 @@ We welcome contributions to the project. To contribute:
 - Commit your changes with descriptive commit messages.
 - Push your changes to your fork and submit a pull request.
 
-Please refer to the [contributing guidelines](doc/CONTRIBUTING.md) for more information.
+Please refer to the [contributing guidelines](CONTRIBUTING.md) for more information.
 
 ## Questions ❓
 
