@@ -33,7 +33,7 @@ Here are some tips to make sure your contribution gets accepted:
 - Make multiple commits. This makes it easier to review and find bugs later on.
 - Write clear commit messages following the guidelines.
 
-There's also a [helpful guide](docs/newcomers-contribution-guide.md) for new contributors with some additional tips and tricks.
+There's also a [helpful guide](doc/newcomers_guide.md) for new contributors with some additional tips and tricks.
 
 Please refer to the [contributing guidelines](CONTRIBUTING.md) for more details. 
 
