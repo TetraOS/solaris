@@ -41,6 +41,7 @@ Please refer to the [contributing guidelines](CONTRIBUTING.md) for more details.
 
 - [Coding Style and Conventions for C++ Code](doc/code_style.md)
 - [Other imporant information](tetraos.com)
+- [Prerequisites for Solaris Project](doc/prerequisites.md)
 
 ## License 📝
 
