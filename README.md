@@ -4,65 +4,46 @@
   <h3>Hello, and Welcome! 👋</h3>
   Solaris is TetraOS' window manager. It is a lightweight and customizable window management solution designed for the Cosmos desktop environment, which is the main desktop environment of TetraOS. Solaris provides essential functionalities for managing windows, workspaces, and user interactions within the desktop environment.
 </div>
+<br>
+<div align='center'>All interactions done with the project should follow the <a src="CODE_OF_CONDUCT.MD">Code Of Conduct.</a></div>
 
-### Features 🚀
+## Reporting Bugs 🪲
 
-- Basic window management operations (creation, resizing, moving, closing)
-- Workspace management for organizing windows across multiple virtual desktops
-- Support for keyboard shortcuts and window focus management
-- Lightweight and efficient design for optimal performance
+Bugs should be reported to the [issue tracking system](github.com/TetraOS/solaris/issues).
 
-## Getting Started 📈
+Please note that the issue tracker is meant to be used for actionable issues only.
 
-To get started with using or contributing to the TetraOS Window Manager, follow these steps:
+For support questions, feedback on changes or general discussions, you can use:
 
-### Prerequisites 🔌
+- [Discussions tab](https://github.com/TetraOS/solaris/discussions) for this repoistory
+- Send the main TetraOS Team an email at: [tetraos.team@gmail.com](mailto:tetraos.team@gmail.com)
 
-- C++ compiler with support for C++17
-- GTK development libraries (for graphical user interface components)
-- CMake build system (optional but recommended)
+## Feature Requests 🙌
 
-### Installation 💾
+Solaris is a core compoment of the Cosmos Desktop Environment. As such, any changes in behavior or appearance only happen in accordance with the TetraOS team.
 
-1. Clone the repository to your local machine:
-
-   ```
-   git clone https://github.com/your-username/Solaris.git
-   ```
-
-3. Navigate to the project directory:
-
-   ```
-   cd Solaris
-   ```
-
-5. Build the window manager using your preferred build system. If you're using CMake: (⚠️ This step is not applicable at the moment)
-
-    ```
-    mkdir build && cd build
-    cmake ..
-    make
-    ```
-    
-## License 📝
-
-Solaris is released under the MIT license. For more information, see the `LICENSE` file in the repository.
+For major changes, it is best to start a discussion, and only involve the issue tracker once agreement has been reached. For enhancements that are limited in scope and well-defined, it is acceptable to directly open a feature request. When in doubt, it is better to ask before opening an issue.
 
 ## Contributing 🤝
 
-We welcome contributions to the project. To contribute:
+If you want to help improve the software, you can share your ideas by making merge requests at https://github.com/TetraOS/solaris. If your suggestion needs more than just a code review, it's a good idea to start a discussion by opening an issue first or following the process for feature requests. Otherwise, you don't have to create a separate issue.
 
-- Fork the repository and create a new branch for your feature or bug fix.
-- Make your changes and ensure that tests pass.
-- Commit your changes with descriptive commit messages.
-- Push your changes to your fork and submit a pull request.
+Here are some tips to make sure your contribution gets accepted:
 
-Please refer to the [contributing guidelines](CONTRIBUTING.md) for more information.
+- Try to keep your changes small. If you can, break them into several merge requests.
+- Make multiple commits. This makes it easier to review and find bugs later on.
+- Write clear commit messages following the guidelines.
 
-## Questions ❓
+There's also a [helpful guide](docs/newcomers-contribution-guide.md) for new contributors with some additional tips and tricks.
 
-If you have any questions or need help, please don't hesitate to contact us at tetraos.team@gmail.com
+Please refer to the [contributing guidelines](CONTRIBUTING.md) for more details. 
 
+## Documentation 🗞️
 
-    
+- [Coding Style and Conventions for C++ Code](doc/code_style.md)
+- [Other imporant information](tetraos.com)
+
+## License 📝
+
+Solaris is distributed under the terms of GNU General Public License v.3.0. See the [LICENSE](LICENSE) file fordetails. 
        
