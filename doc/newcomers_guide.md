@@ -1,6 +1,6 @@
 # Contributing tips for Newcomers
 
-Like most projects, gnome-shell has a few rules and conventions around the coding style and the usage of git. When you make your first MR to gnome-shell, here's a few basics to get started.
+Like most projects, Solaris has a few rules and conventions around the coding style and the usage of git. When you make your first MR to Solaris, here's a few basics to get started. 
 
 ## Look at MRs that were merged already
 
