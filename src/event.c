@@ -1,6 +1,6 @@
 /*
  * Copyright (C) 2023 Carson Schildt
- * Author: John Doe <tetraos.team@gmail.com>
+ * Author: Carson Schildt <tetraos.team@gmail.com>
  * Date: 21-06-2024
  *
  * This program is free software; you can redistribute it and/or
