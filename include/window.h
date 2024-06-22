@@ -1,7 +1,7 @@
 /*
- * Copyright (C) 2023 Carson Schildt
- * Author: Carson Schildt <tetraos.team@gmail.com>
- * Date: 21-06-2024
+ * Copyright (C) 2024 Kaleb Bravo
+ * Author: Kaleb Bravo <tetraos.team@gmail.com>
+ * Date: 22-06-2024
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License
