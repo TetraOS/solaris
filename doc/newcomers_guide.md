@@ -10,7 +10,7 @@ In general it's a good idea to look at a few [merged MRs](https://github.com/Tet
 
 The Solaris codebase has fairly consistent coding style. When working on Solaris, you should be on the safe side by following the coding style of the existing code around you.
 
-The full coding style rules are [here](doc/code_style.md).
+The full coding style rules are [here](code_style.md).
 
 ## Writing commit messages
 
