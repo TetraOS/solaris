@@ -45,5 +45,5 @@ Please refer to the [contributing guidelines](CONTRIBUTING.md) for more details.
 
 ## License 📝
 
-Solaris is distributed under the terms of GNU General Public License v.3.0. See the [LICENSE](LICENSE) file fordetails. 
+Solaris is distributed under the terms of GNU General Public License v.3.0. See the [LICENSE](LICENSE) file for details. 
        
